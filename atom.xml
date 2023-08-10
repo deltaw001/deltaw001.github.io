@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fomalhaut🥝</title>
+  <title>DeltaW</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://www.deltaw.link/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
+  <link href="https://www.deltaw.link/"/>
   <updated>2023-08-10T14:27:29.850Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <id>https://www.deltaw.link/</id>
   
   <author>
-    <name>Fomalhaut🥝</name>
+    <name>DeltaW</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>献诗</title>
-    <link href="https://www.fomal.cc/posts/83249ee5.html"/>
-    <id>https://www.fomal.cc/posts/83249ee5.html</id>
+    <link href="https://www.deltaw.link/posts/83249ee5.html"/>
+    <id>https://www.deltaw.link/posts/83249ee5.html</id>
     <published>2023-08-10T14:21:28.221Z</published>
     <updated>2023-08-10T14:27:29.850Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <link href="https://www.deltaw.link/posts/2013454d.html"/>
+    <id>https://www.deltaw.link/posts/2013454d.html</id>
     <published>2022-08-09T18:19:03.000Z</published>
     <updated>2022-10-23T22:00:00.000Z</updated>
     
@@ -47,12 +47,12 @@
     
     
     
-    <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://www.deltaw.link/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.deltaw.link/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://www.deltaw.link/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
